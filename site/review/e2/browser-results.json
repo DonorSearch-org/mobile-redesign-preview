@@ -1,0 +1,354 @@
+{
+  "widths": [
+    {
+      "width": 360,
+      "home": 360,
+      "scroll": 360,
+      "fontSizes": [
+        "16px",
+        "11px",
+        "12px",
+        "18px",
+        "14px",
+        "22px"
+      ],
+      "weights": [
+        "600",
+        "400"
+      ],
+      "microtext": [],
+      "broken": [],
+      "quick": [
+        {
+          "width": 79,
+          "height": 96,
+          "scroll": 79
+        },
+        {
+          "width": 79,
+          "height": 96,
+          "scroll": 79
+        },
+        {
+          "width": 79,
+          "height": 96,
+          "scroll": 79
+        },
+        {
+          "width": 79,
+          "height": 96,
+          "scroll": 79
+        }
+      ],
+      "journalColumns": "104px 104px 104px",
+      "sections": [
+        "e-stories-section",
+        "e-quick",
+        "e-motivation",
+        "e-own",
+        "e-needs",
+        "e-community",
+        "e-events",
+        "e-funds",
+        "e-reading",
+        "e-support",
+        "e-footer"
+      ]
+    },
+    {
+      "width": 393,
+      "home": 393,
+      "scroll": 393,
+      "fontSizes": [
+        "16px",
+        "11px",
+        "12px",
+        "18px",
+        "14px",
+        "22px"
+      ],
+      "weights": [
+        "600",
+        "400"
+      ],
+      "microtext": [],
+      "broken": [],
+      "quick": [
+        {
+          "width": 87,
+          "height": 96,
+          "scroll": 87
+        },
+        {
+          "width": 87,
+          "height": 96,
+          "scroll": 87
+        },
+        {
+          "width": 87,
+          "height": 96,
+          "scroll": 87
+        },
+        {
+          "width": 87,
+          "height": 96,
+          "scroll": 87
+        }
+      ],
+      "journalColumns": "115px 115px 115px",
+      "sections": [
+        "e-stories-section",
+        "e-quick",
+        "e-motivation",
+        "e-own",
+        "e-needs",
+        "e-community",
+        "e-events",
+        "e-funds",
+        "e-reading",
+        "e-support",
+        "e-footer"
+      ]
+    },
+    {
+      "width": 430,
+      "home": 430,
+      "scroll": 430,
+      "fontSizes": [
+        "16px",
+        "11px",
+        "12px",
+        "18px",
+        "14px",
+        "22px"
+      ],
+      "weights": [
+        "600",
+        "400"
+      ],
+      "microtext": [],
+      "broken": [],
+      "quick": [
+        {
+          "width": 97,
+          "height": 96,
+          "scroll": 97
+        },
+        {
+          "width": 97,
+          "height": 96,
+          "scroll": 97
+        },
+        {
+          "width": 97,
+          "height": 96,
+          "scroll": 97
+        },
+        {
+          "width": 97,
+          "height": 96,
+          "scroll": 97
+        }
+      ],
+      "journalColumns": "127.328px 127.328px 127.344px",
+      "sections": [
+        "e-stories-section",
+        "e-quick",
+        "e-motivation",
+        "e-own",
+        "e-needs",
+        "e-community",
+        "e-events",
+        "e-funds",
+        "e-reading",
+        "e-support",
+        "e-footer"
+      ]
+    }
+  ],
+  "personas": [
+    {
+      "persona": "guest",
+      "width": 360,
+      "status": "PASS"
+    },
+    {
+      "persona": "guest",
+      "width": 393,
+      "status": "PASS"
+    },
+    {
+      "persona": "guest",
+      "width": 430,
+      "status": "PASS"
+    },
+    {
+      "persona": "new",
+      "width": 360,
+      "status": "PASS"
+    },
+    {
+      "persona": "new",
+      "width": 393,
+      "status": "PASS"
+    },
+    {
+      "persona": "new",
+      "width": 430,
+      "status": "PASS"
+    },
+    {
+      "persona": "veteran",
+      "width": 360,
+      "status": "PASS"
+    },
+    {
+      "persona": "veteran",
+      "width": 393,
+      "status": "PASS"
+    },
+    {
+      "persona": "veteran",
+      "width": 430,
+      "status": "PASS"
+    }
+  ],
+  "transitions": [
+    {
+      "selector": ".e-quick button:nth-child(1)",
+      "route": "/plan"
+    },
+    {
+      "selector": ".e-quick button:nth-child(2)",
+      "route": "/donations/add"
+    },
+    {
+      "selector": ".e-quick button:nth-child(3)",
+      "route": "/plan?joint=1"
+    },
+    {
+      "selector": ".e-quick button:nth-child(4)",
+      "route": "/referral"
+    },
+    {
+      "selector": ".e-motivation",
+      "route": "/souvenirs/pin_20"
+    },
+    {
+      "selector": ".e-own .e-section-head button",
+      "route": "/achievements"
+    },
+    {
+      "selector": ".personal-awards button:first-child",
+      "route": "/achievements/first_blood"
+    },
+    {
+      "selector": ".e-center-title",
+      "route": "/centers/838"
+    },
+    {
+      "selector": ".e-needs-foot button",
+      "route": "/centers"
+    },
+    {
+      "selector": ".e-community .e-section-head button",
+      "route": "/community"
+    },
+    {
+      "selector": ".e-events .e-section-head button",
+      "route": "/events"
+    },
+    {
+      "selector": ".e-event-card",
+      "route": "/events/1862"
+    },
+    {
+      "selector": ".e-funds .e-section-head button",
+      "route": "/fundraising"
+    },
+    {
+      "selector": ".e-fund-card:first-child",
+      "route": "/fundraising/community-birthday"
+    },
+    {
+      "selector": ".e-reading .e-section-head button",
+      "route": "/journal"
+    },
+    {
+      "selector": ".e-support",
+      "route": "/support"
+    },
+    {
+      "selector": ".e-footer button",
+      "route": "/more"
+    },
+    {
+      "selector": ".e-profile",
+      "route": "/profile"
+    },
+    {
+      "selector": ".e-count",
+      "route": "/donations"
+    },
+    {
+      "story": 0,
+      "route": "/achievements"
+    },
+    {
+      "story": 1,
+      "route": "/souvenirs"
+    },
+    {
+      "story": 2,
+      "route": "/guide"
+    },
+    {
+      "story": 3,
+      "route": "/journal"
+    },
+    {
+      "donorDetail": "/community/maria"
+    },
+    {
+      "nav": 0,
+      "route": "/"
+    },
+    {
+      "nav": 1,
+      "route": "/donations"
+    },
+    {
+      "nav": 2,
+      "route": "/achievements"
+    },
+    {
+      "nav": 3,
+      "route": "/more"
+    }
+  ],
+  "states": [
+    "blood filter and original semantics",
+    "story paging, disabled endpoints, close",
+    "keyboard focus ring"
+  ],
+  "errors": [],
+  "sameData": true,
+  "externalArticles": [
+    {
+      "href": "https://journal.donorsearch.org/kak-podgotovitsya-k-pervoj-donaczii/",
+      "target": "_blank",
+      "rel": "noreferrer"
+    },
+    {
+      "href": "https://journal.donorsearch.org/kak-prohodit-sdacha-krovi/",
+      "target": "_blank",
+      "rel": "noreferrer"
+    },
+    {
+      "href": "https://journal.donorsearch.org/sovmestnaya-donacziya-na-donorsearch-lichnyj-opyt/",
+      "target": "_blank",
+      "rel": "noreferrer"
+    }
+  ],
+  "status": "PASS"
+}

@@ -1,0 +1,54 @@
+{
+  "stage": "REVIEW_PENDING — NOT APPROVED",
+  "default_version": "site-2026-10-29-e2",
+  "versions": [
+    {
+      "label": "A",
+      "id": "site-2026-10-14-profile",
+      "url": "/mobile-redesign-preview/history/site-2026-10-14-profile/index.html",
+      "approved": false
+    },
+    {
+      "label": "B",
+      "id": "site-2026-10-15-focus",
+      "url": "/mobile-redesign-preview/history/site-2026-10-15-focus/index.html",
+      "approved": false
+    },
+    {
+      "label": "C",
+      "id": "site-2026-10-15-c",
+      "url": "/mobile-redesign-preview/history/site-2026-10-15-c/index.html",
+      "approved": false
+    },
+    {
+      "label": "D",
+      "id": "site-2026-10-15-d",
+      "url": "/mobile-redesign-preview/history/site-2026-10-15-d/index.html",
+      "approved": false
+    },
+    {
+      "label": "D-polish",
+      "id": "site-2026-10-15-d-polish",
+      "url": "/mobile-redesign-preview/history/site-2026-10-15-d-polish/index.html",
+      "approved": false
+    },
+    {
+      "label": "E",
+      "id": "site-2026-10-20-e",
+      "url": "/mobile-redesign-preview/history/site-2026-10-20-e/index.html",
+      "approved": false
+    },
+    {
+      "label": "E.1",
+      "id": "site-2026-10-20-e1",
+      "url": "/mobile-redesign-preview/history/site-2026-10-20-e1/index.html",
+      "approved": false
+    },
+    {
+      "label": "E.2",
+      "id": "site-2026-10-29-e2",
+      "url": "/mobile-redesign-preview/history/site-2026-10-29-e2/index.html",
+      "approved": false
+    }
+  ]
+}

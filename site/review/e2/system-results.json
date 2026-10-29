@@ -1,0 +1,17 @@
+{
+  "historical_files_unchanged": 4317,
+  "source_base": "634f06e1ae4deb08658e37f4ed5993230cdfc3c2",
+  "contrast": {
+    "text_on_white": 14.94,
+    "muted_on_white": 5.67,
+    "action_on_white": 5.53,
+    "action_on_warm": 5.16,
+    "muted_on_subtle": 5.24
+  },
+  "font_files_actual_weights": [
+    400,
+    600,
+    700
+  ],
+  "status": "PASS"
+}
